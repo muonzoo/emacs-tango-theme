@@ -26,7 +26,7 @@
 (defvar red1 "#ef2929")  (defvar red2 "#cc0000")  (defvar red3 "#a40000")
 (defvar alum1 "#eeeeec")  (defvar alum2 "#d3d7cf")  (defvar alum3 "#babdb6")
 (defvar alum4 "#888a85")  (defvar alum5 "#555753")
-(defvar alum6 "#2e3436")
+(defvar alum6 "#1e2426")
 ;; since '(color-theme-tango is quoted below we need to unquote the
 ;; colors so the actual values get put in.  To be able to unquote
 ;; (with ,) change the '  to a `
